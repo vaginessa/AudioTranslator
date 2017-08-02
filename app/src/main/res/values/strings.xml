@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AudioTranslator</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="fill_edit_text">Enter the text for translation</string>
+    <string name="save_button">Save Audio Translation</string>
+    <string name="voice_translation">Voice Translation</string>
+    <string name="put_your_text_here">Type your text here</string>
+    <string name="translate_button">Translate</string>
+    <string name="english">English</string>
+    <string name="german">German</string>
+    <string name="image_view_arrow">ImageView Arrow</string>
+    <string name="your_translation_will_be_here">Your translation will be here...</string>
+    <string name="folder">"//AudioTranslatorSounds/"</string>
+</resources>
